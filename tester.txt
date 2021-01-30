@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est BEFA-126B
+
+ R‚pertoire de C:\Users\HP\Desktop\PROJECT
+
+30/01/2021  10:00    <DIR>          .
+30/01/2021  10:00    <DIR>          ..
+30/01/2021  10:00                 0 tester.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  115ÿ888ÿ128ÿ000 octets libres

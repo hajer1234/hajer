@@ -1,0 +1,13 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est BEFA-126B
+
+ R‚pertoire de C:\Users\HP\Desktop\PROJECT
+
+30/01/2021  10:06    <DIR>          .
+30/01/2021  10:06    <DIR>          ..
+30/01/2021  10:07                 0 hajer.txt
+30/01/2021  10:06               470 hajer1.txt
+30/01/2021  10:06               518 hajer2.txt
+30/01/2021  10:00               375 tester.txt
+               4 fichier(s)            1ÿ363 octets
+               2 R‚p(s)  115ÿ886ÿ874ÿ624 octets libres
